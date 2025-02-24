@@ -2,11 +2,11 @@
 const nextConfig = {
   async redirects() {
     return [
-      {
-        destination: '/editor',
-        permanent: false,
-        source: '/',
-      },
+      // {
+      //   destination: '/editor',
+      //   permanent: false,
+      //   source: '/',
+      // },
     ];
   },
 };
